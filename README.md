@@ -2,7 +2,7 @@
 
 Identify different types of hashes used to hash data and especially passwords.
 
-Hash algorithms supported:
+Hashing algorithms supported:
 
 * ADLER-32
 * CRC-32
